@@ -1,0 +1,16 @@
+{
+"name": "191bet",
+"theme": "191bet",
+"version": "4.9.9",
+"description": "191bet สมัครเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"191bet",
+"191bet เครดิตฟรี",
+"191bet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/191bet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
